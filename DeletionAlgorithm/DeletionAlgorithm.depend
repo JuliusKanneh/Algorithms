@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624907368 source:/home/dr/Documents/Algorithms/DeletionAlgorithm/main.c
+	<stdio.h>
+	<stdlib.h>
+

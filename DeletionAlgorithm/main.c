@@ -8,7 +8,8 @@ int main()
     int i, j;
 
     //printing original array
-    printf("Array before deletion: \n");
+    printf("\nArray before deletion:");
+    printf("\n-----------------------------------------\n");
     for(i=0; i<n; i++){
         printf("array[%d] = %d\n", i, array[i]);
     }
@@ -22,7 +23,8 @@ int main()
     n = n-1;
 
     //printing the new array
-    printf("Array after deletion: \n");
+    printf("\nArray after deletion:");
+    printf("\n-----------------------------------------\n");
     for(i=0; i<n; i++){
         printf("array[%d] = %d\n", i, array[i]);
     }
