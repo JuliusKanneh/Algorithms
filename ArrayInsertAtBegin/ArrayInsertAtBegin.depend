@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624809061 source:/home/dr/Documents/C_Projects/Algorithms/ArrayInsertAtBegin/main.c
+	<stdio.h>
+	<stdlib.h>
+
