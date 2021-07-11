@@ -11,7 +11,7 @@ void main() {
    int value = 3;    // new data element to be inserted
 
    // print array before insertion
-   printf("Printing array before insertion −\n");
+   printf("\nPrinting array before insertion \n");
 
    for(i = 0; i < N; i++) {
       printf("array[%d] = %d \n", i, array[i]);
@@ -29,7 +29,7 @@ void main() {
    N++;
 
    // print to confirm
-   printf("Printing array after insertion −\n");
+   printf("\nPrinting array after insertion \n");
 
    for(i = 0; i < N; i++) {
       printf("array[%d] = %d\n", i, array[i]);
